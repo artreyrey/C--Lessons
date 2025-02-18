@@ -8,7 +8,7 @@ int main() {
     string choice;
 
     do {
-        cout << "Start or End? (start/end): ";
+        cout << "Start or End? (start/end): ";               //hghg
         cin >> choice;
 
         if (choice == "end") {
