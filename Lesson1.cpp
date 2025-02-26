@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     double num1, num2;
     char operation;
-    string choice;
+    string choice;//jghjghjgjghjghjhg
 
     do {
         cout << "Start or End? (start/end): ";               //hghg
